@@ -5,7 +5,7 @@ function HeroDetailsView({ hero }) {
     <>
       <div className={styles.wrapper}>
         <div className={styles.imgContainer}>
-          <img src={hero.Images} />
+          <img src={hero.Images} alt={hero.nickname} />
         </div>
         <div className={styles.dataContainer}>
           <p>{hero.nickname}</p>
