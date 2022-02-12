@@ -1,0 +1,36 @@
+.form {
+  padding: 30px;
+}
+.input_wrapper {
+  display: grid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.label {
+  color: #ff533d;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+.input {
+  height: 40px;
+  border: solid #ff533d 1px;
+}
+.btn_wrapper {
+  text-align: center;
+}
+.buttonAdd {
+  margin-top: 40px;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  height: 100px;
+  font-weight: bold;
+  border-radius: 50%;
+  background: #ff533d;
+  color: #f5f5f5;
+  box-shadow: rgb(0 0 0 / 7%) 0px 1px 2px, rgb(0 0 0 / 7%) 0px 2px 4px,
+    rgb(0 0 0 / 7%) 0px 4px 8px, rgb(0 0 0 / 7%) 0px 8px 16px,
+    rgb(0 0 0 / 7%) 0px 16px 32px, rgb(0 0 0 / 7%) 0px 32px 64px;
+}
