@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nuvem_shop_front/static/css/main.c6a0ca40.css",
-    "main.js": "/nuvem_shop_front/static/js/main.23047439.js",
+    "main.js": "/nuvem_shop_front/static/js/main.b303cb60.js",
     "index.html": "/nuvem_shop_front/index.html",
     "main.c6a0ca40.css.map": "/nuvem_shop_front/static/css/main.c6a0ca40.css.map",
-    "main.23047439.js.map": "/nuvem_shop_front/static/js/main.23047439.js.map"
+    "main.b303cb60.js.map": "/nuvem_shop_front/static/js/main.b303cb60.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a0ca40.css",
-    "static/js/main.23047439.js"
+    "static/js/main.b303cb60.js"
   ]
 }
